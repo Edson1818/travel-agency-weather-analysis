@@ -51,11 +51,11 @@ Includes methodology, model diagnostics, evaluation metrics, and recommendations
 
 ## Author
 
-Edi
+Edi Okwok
 
 ## Copyright and Usage
 
-© 2025 Edi. All rights reserved.
+© 2025 Edi Okwok. All rights reserved.
 
 This work is publicly viewable for personal learning and portfolio review only.  
 **Reproduction, redistribution, or reuse for academic, commercial, or publication purposes is strictly prohibited without written permission.**
